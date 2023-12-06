@@ -1,0 +1,77 @@
+* {
+    border-radius:0px;
+    background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+}
+
+.container{
+    display: flex;
+border:2px dashed red;
+flex-direction: column ;
+justify-content: right;
+ width: 100%;
+ flex-wrap: wrap ;
+ 
+}
+ 
+.one{
+    border:1px solid rgb(0, 0, 0);
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 73, 50);
+    padding: 50px;
+    text-align: center;
+    margin:0px;
+font-weight: 900;
+}
+.two{
+    border:1px solid rgb(0, 0, 0);
+
+    width: 60%;
+     color: rgb(0, 0, 0);
+    background-color: rgb(196, 230, 233);
+    padding: 50px;
+    text-align: center;
+    margin:0px;
+    font-weight:700;
+}
+.three{
+    width: 40%;
+
+    border:1px solid rgb(0, 0, 0);
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(124, 255, 152);
+    padding: 50px;
+    text-align: center;
+     margin:0px;
+    font-weight:700;
+}
+.parent{
+    display: flex;
+}
+.four{
+    
+    width: 35%;
+    border:1px solid rgb(0, 0, 0);
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 251, 45);
+    padding: 50px;
+    text-align: center;
+    margin:0px;
+    font-weight:700;
+}
+.five{
+    width: 50%;
+    border:1px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgb(167, 60, 216);
+    padding: 50px;
+    text-align: center;
+    margin:0px;
+    font-weight:700;
+}
+.parent2{
+    display: flex;
+}
